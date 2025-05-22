@@ -1,5 +1,5 @@
 # Multi-level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions (T-ITS 2025)
-A Pytorch Implementation of Multi-level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions.
+A Pytorch Implementation of Multi-level Guided Discrepancy Learning for Source-Free Object Detection in Hazy Conditions (IEEE T-ITS 2025).
 
 ## Get Started
 ### Datasets Preparation
